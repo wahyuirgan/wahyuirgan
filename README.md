@@ -3,6 +3,17 @@
 ### About Me:
 I am an Android Developer, I love learning new things about web and android technology. Currently, work at PT. Mitra Integrasi Informatika as Application Developer Jr., placed on the client at PT. Pamapersada Nusantara as Android Developer (Java).
 
+### Connect Me:
+<div id="badges">
+  <a href="https://id.linkedin.com/in/m-wahyu-i-62796a114?trk=public_profile_browsemap">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/m_wahyuirgan/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
