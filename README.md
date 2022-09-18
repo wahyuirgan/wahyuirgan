@@ -1,7 +1,7 @@
 ## Hi there... 👋
 
 ### About Me:
-I am an Android Developer, I love learning new things about web and android technology. Currently, work at PT. Mitra Integrasi Informatika as Application Developer Jr., placed on the client at PT. Pamapersada Nusantara as Android Developer (Java).
+I am an Android Developer, I love learning new things about web and android technology. Currently, work at PT. Sinergi Transformasi Digital as Application Developer Jr., placed on the client at PT. Pamapersada Nusantara as Android Developer (Java).
 
 ### Connect Me:
 <div id="badges">
